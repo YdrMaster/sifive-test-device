@@ -8,5 +8,5 @@ repository = "https://github.com/YdrMaster/sifive-test-device.git"
 documentation = "https://docs.rs/sifive-test-device"
 license = "MulanPSL-2.0 OR MIT"
 readme = "README.md"
-keywords = ["riscv"]
+keywords = ["riscv", "qemu", "sifive"]
 categories = ["embedded", "hardware-support", "no-std"]
