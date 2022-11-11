@@ -1,0 +1,12 @@
+[package]
+name = "sifive-test-device"
+description = "Provide definition of SiFive test device."
+version = "0.0.0"
+edition = "2021"
+authors = ["YdrMaster <ydrml@hotmail.com>"]
+repository = "https://github.com/YdrMaster/sifive-test-device.git"
+documentation = "https://docs.rs/sifive-test-device"
+license = "MulanPSL-2.0 OR MIT"
+readme = "README.md"
+keywords = ["riscv"]
+categories = ["embedded", "hardware-support", "no-std"]
